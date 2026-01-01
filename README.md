@@ -44,7 +44,7 @@ Enjoy the immersive gaming experience with sound effects for correct and incorre
 
 ### Responsive Design
 
-Experience seamless gameplay across various devices and screen sizes, thanks to the responsive design of the Hangman web app.
+Experience seamless gameplay across various devices and screen sizes, thanks to the responsive design in the Hangman web app.
 
 ### Hint Button
 
