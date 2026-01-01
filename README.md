@@ -2,11 +2,9 @@
 
 Welcome to the Hangman web app project! This project offers a classic Hangman game experience implemented entirely using web technologies—HTML, CSS, and JavaScript. Players are presented with a word to guess, accompanied by a hint. They select letters to uncover the hidden word, with visual feedback provided for correct and incorrect guesses. The game features an intuitive user interface, responsive design for various screen sizes, and sound effects to enhance the gaming experience. Whether for educational purposes or entertainment, the Hangman web app promises hours of interactive fun for players of all ages.
 
-## Team Members
-
 - **Jatin Gupta** - Manager
 - **Mayank Singla** - Developer
-- **Mehak Sharma** - Tester
+
 
 ## Instructions for Running the Game
 
