@@ -11,6 +11,7 @@ Welcome to the Hangman web app project! This project offers a classic Hangman ga
 Clone the Hangman web app repository from GitHub to your local machine using the following command: <br>
 "git clone <repository_url>"
 
+this repo.
 ### Open the Project Directory
 
 Navigate to the directory where the Hangman web app repository is cloned on your local machine.
